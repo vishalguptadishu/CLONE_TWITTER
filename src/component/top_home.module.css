@@ -1,0 +1,12 @@
+.top_home div:nth-child(1){
+    height: 48px;
+    border: 1px solid green;
+    padding-left: 18px;
+    padding-bottom:14px ;
+}
+
+.top_home div:nth-child(2){
+display: flex;
+justify-content: center;
+align-items: center;
+}
