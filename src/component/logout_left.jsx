@@ -27,7 +27,7 @@ const Logout_left=()=>{
                 <div className={styles.name_log_left}>
                     <img src="https://lh3.googleusercontent.com/ogw/AOLn63HZx1GUehJHyQX441QjoFKxma4d0iM9Ip8NpodvVQ=s32-c-mo" alt="" />
                     <div>
-                    <p>Anoop/p> 
+                    <p>Anoop</p>
                     <p>A G</p>
                     </div>  
                 </div>
